@@ -1,0 +1,39 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.exe
+*.dll
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Project files #
+#################
+*.sdf
+*.sln
+*.suo
+*.opensdf
+*.vcxproj
+*.vxcproj.filters
+*.vxxproj.user
+
+# Temporary files #
+###################
+*.swp
