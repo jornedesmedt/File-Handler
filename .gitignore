@@ -31,8 +31,8 @@
 *.suo
 *.opensdf
 *.vcxproj
-*.vxcproj.filters
-*.vxxproj.user
+*.vccproj.filters
+*.vcxproj.user
 Debug/
 ipch/
 
